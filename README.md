@@ -31,3 +31,9 @@ https://github.com/concretesolutions/android-docs-reference/issues/new
 **Para resolver uma issue** atualize a wiki e cole o link do artigo na issue fecharmos:
 
 https://github.com/concretesolutions/android-docs-reference/wiki
+
+## Blog Concrete
+
+**Este repositório é uma iniciativa da Concrete Solutions!** para conferir mais iniciativas como esta confira nosso Blog:
+
+ https://medium.com/concretebr/tagged/concrete
