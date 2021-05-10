@@ -12,6 +12,10 @@ A ideia aqui é aplicar o modelo de comparação:
 
 **Critérios de avaliação**: Quais critérios ou considerações podem ser usados para comparar as alternativas? Estes critérios podem incluir avaliações ou critérios objetivos (tamanho, desempenho, etc)
 
+## Wiki (base de conhecimento)
+
+A wiki será o ponto central para reunir e documentar as comparações entre diversas libs e padrões de projeto Android, além de outras referências úteis para aprender <3.
+
 ## Espaço para discussões
 
 A comunidade Android também pode interagir através da áreas de discussões abaixo.
@@ -24,8 +28,6 @@ https://github.com/concretesolutions/android-docs-reference/discussions
 
 https://github.com/concretesolutions/android-docs-reference/issues/new
 
-**Para resolver uma issue** utilize abra um pull request no link abaixo preenchendo o template:
+**Para resolver uma issue** atualize a wiki e cole o link do artigo na issue fecharmos:
 
-https://github.com/concretesolutions/android-docs-reference/pulls
-
-**Para interagir com a comunidade** utilize a área de discussões
+https://github.com/concretesolutions/android-docs-reference/wiki
