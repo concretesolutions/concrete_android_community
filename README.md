@@ -34,6 +34,8 @@ https://github.com/concretesolutions/android-docs-reference/wiki
 
 ## Blog Concrete
 
-**Este repositório é uma iniciativa da Concrete Solutions!** para conferir mais iniciativas como esta confira nosso Blog:
+**Este repositório é uma iniciativa da Concrete Solutions!** para conferir mais iniciativas como esta confira nosso Blog e Codlabs:
 
- https://medium.com/concretebr/tagged/concrete
+Blog ->  https://medium.com/concretebr/tagged/concrete
+
+CodLabs -> http://concretesolutions.github.io/
