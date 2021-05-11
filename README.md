@@ -16,6 +16,8 @@ A ideia aqui é aplicar o modelo de comparação:
 
 A wiki será o ponto central para reunir e documentar as comparações entre diversas libs e padrões de projeto Android, além de outras referências úteis para aprender <3.
 
+https://github.com/concretesolutions/android-docs-reference/wiki
+
 ## Espaço para discussões
 
 A comunidade Android também pode interagir através da áreas de discussões abaixo.
@@ -26,7 +28,7 @@ https://github.com/concretesolutions/android-docs-reference/discussions
 
 **Para abrir um questionamento** ou problema a ser comparado, abra uma issue no link abaixo preenchendo os itens do template:
 
-https://github.com/concretesolutions/android-docs-reference/issues/new
+https://github.com/concretesolutions/android-docs-reference/issues/new/choose
 
 **Para resolver uma issue** atualize a wiki e cole o link do artigo na issue fecharmos:
 
@@ -34,8 +36,8 @@ https://github.com/concretesolutions/android-docs-reference/wiki
 
 ## Blog Concrete
 
-**Este repositório é uma iniciativa da Concrete Solutions!** para conferir mais iniciativas como esta confira nosso Blog e Codlabs:
+**Este repositório é uma iniciativa da Concrete Solutions!** para conferir mais iniciativas como esta confira nosso Blog e Codelabs:
 
 Blog ->  https://medium.com/concretebr/tagged/concrete
 
-CodLabs -> http://concretesolutions.github.io/
+CodeLabs -> http://concretesolutions.github.io/
